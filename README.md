@@ -4,7 +4,7 @@
 
 This is an azure and c# excercise project for blob things.
 It is the first time I used C# in front-end code and Azure SDK within code.
-The purpose of this excercise was to create a simple image library application that allows any user to view and upload the images.
+The purpose of this excercise was to create a simple image library application that allows any user to view and upload the images using azure blob storage.
 
 ## Technologies
 
@@ -15,4 +15,4 @@ The purpose of this excercise was to create a simple image library application t
 
 ## Deployment
 
-This project can be viewed in ???
+This project can be viewed in [here](http://13.69.198.57/).
